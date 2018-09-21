@@ -4,9 +4,9 @@ Functional programming is an alternative paradigm to OOP. Instead of application
 
 + ### Articles
 
-    [jasoncharnes.com] https://jasoncharnes.com/functional-programming-ruby Exploring Functional Programming with Ruby
+    https://jasoncharnes.com/functional-programming-ruby Exploring Functional Programming with Ruby
 
 + ### Videos
 
-    [thoughtbot.com] https://thoughtbot.com/upcase/videos/functional-object-oriented-programming-in-ruby Functional & Object Oriented Programming in Ruby
+    https://thoughtbot.com/upcase/videos/functional-object-oriented-programming-in-ruby Functional & Object Oriented Programming in Ruby
     
