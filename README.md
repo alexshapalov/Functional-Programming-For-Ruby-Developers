@@ -16,6 +16,7 @@ Functional programming is an alternative paradigm to OOP. Instead of application
     
     https://www.youtube.com/watch?v=Pmhap3acJvs&t=788s Lambda World 2018 - What Haskell Taught Us When We Weren't Looking - Eric Torreborre
     
+    https://www.youtube.com/watch?v=0if71HOyVjY GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen
     
     
     
