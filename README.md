@@ -19,3 +19,9 @@ Functional programming is an alternative paradigm to OOP. Instead of application
    https://www.youtube.com/watch?v=0if71HOyVjY GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen
     
    https://www.youtube.com/watch?v=8GWZE2Y2O9E FP vs OO: Choose Two by Brian Goetz
+   
+   https://www.youtube.com/watch?v=toSedSFnzOE RailsConf 2019 - Sprinkles of Functional Programming by John Schoeman
+   
+   https://www.youtube.com/watch?v=rMxurF4oqsc Full Stack Fest 2015: Blending Functional and OO Programming in Ruby, by Piotr Solnica
+   
+   
