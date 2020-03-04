@@ -24,4 +24,7 @@ Functional programming is an alternative paradigm to OOP. Instead of application
    
    + Full Stack Fest 2015: Blending Functional and OO Programming in Ruby, by Piotr Solnica https://www.youtube.com/watch?v=rMxurF4oqsc
    
+   ### Guide 
+   
+   Haskell Guide (RU) https://www.ohaskell.guide/init.html
    
