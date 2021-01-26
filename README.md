@@ -5,6 +5,16 @@ Functional programming is an alternative paradigm to OOP. Instead of application
 ### Articles
 
   + Exploring Functional Programming with Ruby https://jasoncharnes.com/functional-programming-ruby
+  + https://scoutapm.com/blog/how-to-use-lambdas-in-ruby#:~:text=A%20lambda%20function%20can%20then,'first%2Dclass%20functions'.
+  
+### Ruby -> Proc -> lambda
+
+Lambdas are a powerful feature of the Ruby language. They allow you to wrap logic and data into a portable package.
+
+- "A lambda function encapsulates control flow, parameters and local variables into a single package assigned to a variable or used inline. If assigned to a variable, it can be passed to other functions or stored in data structures, just like a more typical variable containing a string or float. A lambda function can then be executed far from the code location where it was defined. Lambda functions are often called anonymous functions or a function literal."
+
+  + Proc https://rubyapi.org/2.7/o/proc#method-i-lambda-3F
+  
 
 ### Videos
 
