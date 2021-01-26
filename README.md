@@ -5,7 +5,7 @@ Functional programming is an alternative paradigm to OOP. Instead of application
 ### Articles
 
   + Exploring Functional Programming with Ruby https://jasoncharnes.com/functional-programming-ruby
-  + https://scoutapm.com/blog/how-to-use-lambdas-in-ruby#:~:text=A%20lambda%20function%20can%20then,'first%2Dclass%20functions'.
+  + How to Use Lambdas in Ruby https://scoutapm.com/blog/how-to-use-lambdas-in-ruby#:~:text=A%20lambda%20function%20can%20then,'first%2Dclass%20functions'.
   
 ### Ruby -> Proc -> lambda
 
