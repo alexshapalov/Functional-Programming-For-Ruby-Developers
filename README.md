@@ -34,6 +34,8 @@ Lambdas are a powerful feature of the Ruby language. They allow you to wrap logi
    
    + Full Stack Fest 2015: Blending Functional and OO Programming in Ruby, by Piotr Solnica https://www.youtube.com/watch?v=rMxurF4oqsc
    
+   + RailsConf 2022 - Functional Programming in Plain Terms by Eric Weinstein https://www.youtube.com/watch?v=W2tmA4V0Bjk&list=PLbHJudTY1K0f1WgIbKCc0_M-XMraWwCmk&index=65&ab_channel=RubyCentral
+   
    ### Other fp languages:
    
    Haskell Guide (RU) https://www.ohaskell.guide/init.html
